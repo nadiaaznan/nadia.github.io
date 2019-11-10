@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/Users/nadiaaznan/Desktop/Profile Page/Profile2.css">
+    <title>Nadia's Profile</title>
+</head>
+
+<body>
+    <header role="banner">
+        <section class="row">
+            <img src="welcome.png" height="30" alt="mail">
+            <a href="mailto:nadiaathirahaznan@gmail.com" class="email-button" title="Send Nadia an email" role="button">
+                <img src="mail.png" width="30" alt="Email Button">
+            </a>
+        </section>
+        <main>
+            <h1><strong>Hello There! <img src="me.png"></strong></h1>
+            <section class="row intro">
+                <div class="column">
+                    <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus est ligula, nec dignissim
+                        sapien imperdiet ut. Quisque eu veli <mark>BMW MINI.</mark>
+                    </h1>
+                </div>
+            </section>
+
+            <section class="row">
+                <div class="column">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus est ligula, nec dignissim
+                        sapien imperdiet ut. Quisque eu velit.
+                    </p>
+                </div>
+                <div class="column">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus est ligula, nec dignissim
+                        sapien imperdiet ut. Quisque eu velit.
+                    </p>
+                </div>
+                <div class="column">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus est ligula, nec dignissim
+                        sapien imperdiet ut. Quisque eu velit.
+                    </p>
+                </div>
+            </section>
+            <section class="row contact-bar">
+                <span class="message">
+                    "Sorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus est ligula, nec dignissim
+                </span>
+                <a href="mailto:nadiaathirahaznan@gmail.com" class="email" title="Email to me!" role="button">Email
+                    me</a>
+            </section>
+            <h1><strong>Travel Logs <img src="travel.png"></strong></h1>
+            <section class="row thumbnails">
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img1.png" alt="pic1"></a>
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img2.png" alt="pic2"></a>
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img3.png" alt="pic3"></a>
+            </section>
+            <h1><strong>Wishlist Destinations <img src="travel.png"></strong></h1>
+            <section class="row thumbnails">
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img1.png" alt="pic1"></a>
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img2.png" alt="pic2"></a>
+                <a href="X" title="X" target="_blank">
+                    <img srcset="img3.png" alt="pic3"></a>
+            </section>
+            <h1><strong>Play Tic Tac Toe!</strong></h1>
+            <section class="row thumbnails">
+                <a href="tictac/tictacto.html" title="Tic Tac Toe" target="_blank">
+                    <img srcset="tic.png" alt="pic1"></a>
+            </section>
+        </main>
+    </header>
+</body>
+
+<footer>
+    <section class="row">
+        <p>By Nadia Athirah Aznan</p>
+        <a href="linkedin.com" class="email-button" title="My Twitter" role="button">
+            <img src="linkedin.png" width="25" alt="Email Button">
+    </section>
+</footer>
+
+</html>
